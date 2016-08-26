@@ -7,5 +7,11 @@ public class Mainline {
 		
 		SimulatedBowling bowling = new SimulatedBowling();
 		bowling.bowl();
+//		
+//		
+//		Bowling bowling1 = new Bowling();
+//		bowling1.bowl();
+		
+		
 	}
 }
